@@ -1,0 +1,86 @@
+month,,Day,Ship,Times,Passengers
+april,1,Wed 16,AIDAsol,a 1000 d 2000,2174
+april,2,Thu 17,Renaissance,a 0700 d 1800,1358
+april,3,Wed 23,AIDAsol,a 1000 d 1900,2174
+april,4,Tue 29,Amera,a 0800 d 2000,834
+may,5,Sat 3,AIDAluna,a 0800 d 1800,2050
+may,6,Tue 6,Mein Schiff 3,a 0730 d 1900,2506
+may,7,Wed 7,Nieuw Statendam,a 0900 d 1900,2666
+may,8,Thu 8,AIDAluna,a 0800 d 1800,2050
+may,9,Sun 11,Norwegian Star,a 0700 d 1900,2348
+may,10,Mon 12,AIDAsol,a 0900 d 1900,2174
+may,11,Fri 16,Mein Schiff 3,a 0730 d 1900,2506
+may,12,Mon 19,Costa Favolosa,a 0900 d 1900,3012
+may,13,Tue 20,MSC Preziosa,a 0700 d 1700,3502
+may,14,Wed 21,Queen Anne,a morning d evening,2996
+may,15,Fri 23,AIDAluna,a 0700 d 1700,2050
+may,16,Mon 26,Mein Schiff 3,a 0730 d 1900,2506
+june,17,Mon 2,Celebrity Eclipse,a 0800 d 1700,2852
+june,18,Sun 8,Star Legend,a 0800 d 2300,312
+june,19,Mon 9,Britannia,a early morning d early evening,3648
+june,20,Tue 10,Regal Princess,a 0700 d 1800,3560
+june,21,Wed 11,MSC Preziosa,a 0700 d 1700,3502
+june,22,Sat 14,Celebrity Eclipse,a 0700 d 1800,2852
+june,23,Sun 15,Mein Schiff 3,a 0730 d 1900,2506
+june,24,Fri 20,Seven Seas Grandeur,a 0900 d 1800,746
+june,25,Sun 22,Regal Princess,a 0700 d 1800,3560
+june,26,Tue 24,Azamara Quest,a 0800 d 1900,698
+june,27,Wed 25,Nieuw Statendam,a 0700 d 1700,2666
+june,28,Thu 26,AIDAsol,a 0800 d 1700,2174
+june,29,Fri 27,Mein Schiff 3,a 0730 d 1900,2506
+june,30,Mon 30,Seabourn Sojourn,a 0800 d 1700,450
+july,31,Tue 1,Mein Schiff 3,a 0730 d 1900,2506
+july,32,Thu 3,Oceania Marina,a 0800 d 1800,1258
+july,33,Fri 4,Regal Princess,a 0700 d 1800,3560
+july,34,Sun 6,MSC Preziosa,a 0700 d 1700,3502
+july,35,Mon 7,Ambience,a 0900 d 1800,1400
+july,36,Wed 9,Carnival Miracle,a 0800 d 1800,2124
+july,37,Mon 14,Emerald Princess,a 0700 d 1800,3080
+july,38,Wed 16,Regal Princess,a 0700 d 1800,3560
+july,39,Fri 18,Viking Jupiter,,930
+july,40,Sat 19,Mein Schiff 3,a 0730 d 1900,2506
+july,41,Sun 20,Viking Vela,,998
+july,42,Mon 21,Norwegian Dawn,a 0700 d 1700,2340
+july,43,Tue 22,Seven Seas Navigator,a 1200 d 1900,496
+july,44,Tue 22,Star Legend,a 0800 d 2100,312
+july,45,Wed 23,Rotterdam,a 0700 d 1800,2668
+july,46,Thu 24,Viking Jupiter,,930
+july,47,Fri 25,Oceania Sirena,a 0700 d 2200,684
+july,48,Mon 28,Regal Princess,a 0700 d 1800,3560
+july,49,Tue 29,MSC Preziosa,a 0700 d 1700,3502
+july,50,Thu 31,Seven Seas Voyager,a 0700 d 1700,708
+august,51,Fri 1,Renaissance,a 0700 d 1800,1358
+august,52,Sun 3,Star Legend,a 0800 d 2300,312
+august,53,Mon 4,Regal Princess,a 0700 d 1800,3560
+august,54,Wed 6,Nieuw Statendam,a 1000 d 1800,2666
+august,55,Thu 7,Oceania Vista,a 0800 d 2100,1200
+august,56,Sun 10,Mein Schiff 3,a 0730 d 1900,2506
+august,57,Mon 11,Norwegian Dawn,a 0700 d 1700,2340
+august,58,Tue 12,AIDAsol,a 1000 d 2000,2174
+august,59,Wed 13,Celebrity Eclipse,a 0800 d 1800,2852
+august,60,Thu 14,Mein Schiff 3,a 0730 d 1900,2506
+august,61,Mon 18,Azamara Journey,a 0900 d 2200,690
+august,62,Wed 20,Seven Seas Navigator,a 1200 d 1900,496
+august,63,Thu 21,Regal Princess,a 0700 d 1800,3560
+august,64,Fri 22,Norwegian Dawn,a 0700 d 1900,2340
+august,65,Mon 25,AIDAsol,a 0900 d 1900,2174
+august,66,Tue 26,Mein Schiff 3,a 0730 d 1900,2506
+august,67,Wed 27,Silver Dawn,a 0700 d 1600,596
+august,68,Sun 31,Seven Seas Grandeur,a 0700 d 1700,746
+september,69,Mon 1,Norwegian Dawn,a 0700 d 1900,2340
+september,70,Thu 4,AIDAluna,a 1000 d 2000,2050
+september,71,Fri 5,Mein Schiff 3,a 0730 d 1900,2506
+september,72,Sat 6,Costa Favolosa,a 0800 d 1800,3012
+september,73,Sun 7,Regal Princess,a 0800 d 1900,3560
+september,74,Wed 10,AIDAsol,a 0800 d 1800,2174
+september,75,Fri 12,Costa Favolosa,a 0900 d 1900,3012
+september,76,Mon 15,Seven Seas Mariner,a 0800 d 1700,708
+september,77,Tue 23,Queen Mary 2,a early morning d evening,2640
+september,78,Wed 24,Regal Princess,a 0700 d 1800,3560
+september,79,Thu 25,Ambition,a 0800 d 1800,1200
+october,80,Fri 3,AIDAsol,a 0900 d 1900,2174
+october,81,Sun 5,Regal Princess,a 0700 d 1800,3560
+october,82,Fri 10,Artania,a 0900 d 1900,1122
+october,83,Fri 17,AIDAsol,a 1100,2174
+october,84,Sat 18,AIDAsol,d 2000,2174
+october,85,Wed 29,Ambience,a 0900 d 1800,1400
